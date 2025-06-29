@@ -6,3 +6,5 @@ It has some buttons on the page, having id as color name and on clicking on them
 
 # Project - 2 BMI Calculator
 Calculate bmi from user given value from form and displaying it on webpage.
+
+# Project - 3 Digital Clock
