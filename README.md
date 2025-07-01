@@ -8,3 +8,6 @@ It has some buttons on the page, having id as color name and on clicking on them
 Calculate bmi from user given value from form and displaying it on webpage.
 
 # Project - 3 Digital Clock
+
+# Project - 4 Expanding Cards
+on click on cards it expands provides a better preview
