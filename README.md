@@ -14,3 +14,6 @@ on click on cards it expands provides a better preview
 
 # Project - 5 Progress Steps
 shows the steps left and completed
+
+# Project - 6 Rotating Navigation
+Rotates the content to show navigation hidden beneath it.
