@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background: blue;
+    margin: 10px;
+    transform: translateX(400%);
+    transition: transform 0.4s ease;
+}
+.box:nth-child(even){
+    transform: translateX(-400%);
+}
+.box.show{
+    transform: translateX(0);
+}

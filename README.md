@@ -26,3 +26,10 @@ loads the page by decreasing blur.
 --New topics 
     -> scale function = to change/scale one range to another
     -> clearInterval() = stop a repeating interval.
+
+# Project - 8 Scroll Animation
+reveals the content when they are in the required area/position
+-- New topics
+    -> scroll event (when adding scroll event for entire webpage use window element)
+    -> window.innerHeight = returns the height of the visible part of the browser window(viewport)in pixels. 
+    -> getBoundingClientRect = returns the size and position of an element relative to the viewport.
