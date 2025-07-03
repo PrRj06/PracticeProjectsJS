@@ -17,3 +17,6 @@ shows the steps left and completed
 
 # Project - 6 Rotating Navigation
 Rotates the content to show navigation hidden beneath it.
+
+# Project - 7 Hidden Search Widget
+expands the search area after clicking on search icon
