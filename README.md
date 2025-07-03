@@ -20,3 +20,9 @@ Rotates the content to show navigation hidden beneath it.
 
 # Project - 7 Hidden Search Widget
 expands the search area after clicking on search icon
+
+# Project - 8 Blurry - Loading
+loads the page by decreasing blur.
+--New topics 
+    -> scale function = to change/scale one range to another
+    -> clearInterval() = stop a repeating interval.
