@@ -1,0 +1,93 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+}
+h1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 4rem;
+    white-space: nowrap;
+    color: #fff;
+}
+button{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 15rem;
+    padding: 1.5rem;
+    border: 3px solid #fff;
+    background: transparent;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+}
+.ps5 button:hover{
+    background-color:rgba(87, 84, 236, 1);
+    border: rgba(87, 84, 236, 1);
+}
+.xbox button:hover{
+    background-color: rgba(28, 122, 28, 1);
+    border: rgba(28, 122, 28, 1);
+}
+
+
+.ps5{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    background: url(ps.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    transition: all 1s ease-in-out;
+}
+.ps5::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(87, 84, 236, 0.7);
+}
+.ps5.hover-ps5{
+    width: 75%;
+}
+.xbox.hover-ps5{
+    width: 25%;
+}
+
+
+.xbox{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(43, 43, 43, 0.8);
+    background: url(xbox.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    transition: all 1s ease-in-out;
+}
+.xbox::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(43, 43, 43, 0.8);
+}
+.xbox.hover-xbox{
+    width: 75%;
+}
+.ps5.hover-xbox{
+    width: 25%;
+}
