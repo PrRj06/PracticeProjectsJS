@@ -39,3 +39,12 @@ splits the landing page into two parts, expands the area of the part on which yo
 -- new topics
     ->white-space:nowrap; = css property which does not allow wapping of text,but should be dealt with overflow
     ->mouseenter/mouseleave = triggered when the mouse enters/leaves the target element only (not its children)
+
+# Project - 11 Form Wave
+adds a wave like animation to label of input field in a form
+--new topics 
+    ->how to add animation to label using split,map,join
+    ->Descendant combinator(A (space) B) = B inside A (any depth) in the HTML structure.
+    ->General sibling combinator(A~B) = Select every <B> element that is a sibling of <A> and appears after it in the HTML structure.
+    ->Immediate next sibling(A+B) = Select only one <B> element that is a immediate next after <A> in the HTML structure.
+    ->Child combinator(A>B) = <B> is a direct child of <A> in the HTML structure.
