@@ -48,3 +48,10 @@ adds a wave like animation to label of input field in a form
     ->General sibling combinator(A~B) = Select every <B> element that is a sibling of <A> and appears after it in the HTML structure.
     ->Immediate next sibling(A+B) = Select only one <B> element that is a immediate next after <A> in the HTML structure.
     ->Child combinator(A>B) = <B> is a direct child of <A> in the HTML structure.
+
+# Project - 12 Sound Board
+plays sound of type written on buttons
+--new topics
+    ->.play() = JavaScript function to play a media element (audio or video).
+    ->.pasue() = JavaScript function to pause a media element (audio or video).
+    ->.currentTime = A JavaScript function to set current playback position of a media element (audio or video).
