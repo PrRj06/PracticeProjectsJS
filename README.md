@@ -55,3 +55,5 @@ plays sound of type written on buttons
     ->.play() = JavaScript function to play a media element (audio or video).
     ->.pasue() = JavaScript function to pause a media element (audio or video).
     ->.currentTime = A JavaScript function to set current playback position of a media element (audio or video).
+
+# Project - 13 key Code
