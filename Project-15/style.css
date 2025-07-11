@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Muli',sans-serif;
+}
+body{
+    background-color: #2b88f0;
+}
+.container{
+    width: 600px;
+    height: fit-content;
+    min-height: 400px;
+    margin: calc(50vh - 200px) auto;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.container p{
+    color: #fff;
+    font-size: 20px;
+}
+.container textarea{
+    width: 500px;
+    height: 100px;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    font-size: 16px;
+}
+textarea:focus{
+    outline-color: black;
+}
+
+.container .choices{
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.choices .choice{
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #f0932b;
+}
+.choice.tag{
+    background-color: black;
+}
