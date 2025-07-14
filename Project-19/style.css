@@ -1,0 +1,100 @@
+:root{
+    --fill_color: #6ab3f8; 
+    --border_color: #144fc6;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Muli',sans-serif;
+    background-color: #3494e4;
+}
+
+.container{
+    min-height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border: 1px solid black;
+}
+.container h1{
+    margin: 20px 0 10px;
+}
+.container h3{
+    font-weight: 400;
+}
+.container p{
+    font-size: 16px;
+}
+.container .water-container{
+    width: 150px;
+    height: 300px;
+    margin: 40px 0;
+    background-color: #fff;
+    color: var(--border_color);
+    border: 4px solid var(--border_color);
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.water-container .remaining{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    position: relative;
+}
+.remaining .content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.water-container .filled{
+    width: 100%;
+    height: 0%;
+    background-color: var(--fill_color);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.filled .content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.container .glass-container{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0;
+}
+.glass-container .glass{
+    height: 100px;
+    padding: 25px 10px;
+    margin: 5px;
+    text-align: center;
+    border: 5px solid var(--border_color);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #fff;
+    color: var(--border_color);
+    cursor: pointer;
+}
+
+.glass.active{
+    color: #fff;
+    background-color: var(--fill_color);
+}
