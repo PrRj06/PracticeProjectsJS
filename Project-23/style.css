@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;  
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: steelblue;
+}
+.box-container{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    margin: 10px;
+    background: #fff;
+
+}
+.drag-element{
+    width: 145px;
+    height: 145px;
+    background-image: url(img.jpg);
+}
+.hold{
+    border: 5px solid #ccc;
+}
+.hover{
+    background: black;
+    border-style: dashed;
+    border-color: white;
+}
