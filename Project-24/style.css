@@ -1,0 +1,62 @@
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    body{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* justify-content: center; */
+        background-color: #f5f5f5;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #canvas{
+        border: 2px solid blue;
+        border-bottom: none;
+    }
+    .circle{
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: black;
+        position: absolute;
+    }
+    .tool-bar{
+        width: 804px;
+        /* padding: 1rem; */
+        background-color: steelblue;
+        display: flex;
+    }
+
+    .tool-bar button, input{
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 4px;
+        margin: 10px;
+        background-color: #fff;
+        font-size: 20px;
+        border: none;
+    }
+    .tool-bar .erase-all{
+        font-size: 32px;
+        margin-left: 450px;
+    }
+
+    .tool-bar .size-info{
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 4px;
+        margin: 10px;
+        background-color: #fff;
+        font-size: 32px;
+        border: none;
+    } 
