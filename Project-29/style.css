@@ -1,0 +1,64 @@
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    body{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+        font-family: 'Segoe UI', sans-serif;
+    }
+    .search-bar{
+        width: 50%;
+        padding: 1rem;
+        font-size: 20px;
+        border-radius: 10px;
+        border: none;
+        outline: none;
+        color: rgba(0, 0, 0, 0.45);
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+    .card-container {
+        width: 400px;
+        height: 400px;
+        background: rgba(255, 255, 255, 0.05);
+        color: #e0f7fa; /* soft aqua white for better readability */
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        border-radius: 20px;
+        margin: 20px auto;
+        padding: 50px 20px;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6); /* deeper shadow for contrast */
+    }
+
+    .card-container .profile-pic-container {
+        width: 150px;
+        height: 150px;
+        margin: 10px auto;
+        border: 2px solid rgba(255, 255, 255, 0.2); /* lighter border for dark background */
+        border-radius: 50%;
+        overflow: hidden;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); /* darker inner shadow */
+    }
+
+    .card-container h2, .card-container h3 {
+        margin: 10px 0 0;
+        text-align: center;
+        color: #ffffff; /* ensure heading pops */
+    }
+
+    .card-container .follow-container {
+        margin: 10px 0;
+        display: flex;
+        justify-content: space-evenly;
+        color: #b2ebf2; /* subtle bluish tone to match gradient */
+    }
