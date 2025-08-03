@@ -1,42 +1,42 @@
 | No. | Project Name | Live Demo |
 |:--:|:-------------|:----------|
-| 01 | Project-1  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-1/) |
-| 02 | Project-2  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-2/) |
-| 03 | Project-3  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-3/) |
-| 04 | Project-4  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-4/) |
-| 05 | Project-5  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-5/) |
-| 06 | Project-6  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-6/) |
-| 07 | Project-7  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-7/) |
-| 08 | Project-8  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-8/) |
-| 09 | Project-9  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-9/) |
-| 10 | Project-10 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-10/) |
-| 11 | Project-11 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-11/) |
-| 12 | Project-12 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-12/) |
-| 13 | Project-13 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-13/) |
-| 14 | Project-14 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-14/) |
+| 01 | Color Scheme Switcher  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-1/) |
+| 02 | BMI Calculator  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-2/) |
+| 03 | Your Local Time  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-3/) |
+| 04 |Expanding Cards  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-4/) |
+| 05 | Progress Steps  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-5/) |
+| 06 | Rotate Navigation   | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-6/) |
+| 07 | Hidden Search Widget  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-7/) |
+| 08 | Blurry Loading | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-8/) |
+| 09 | Scroll Animation | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-9/) |
+| 10 | Split Landing Page | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-10/) |
+| 11 | From Wave | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-11/) |
+| 12 | Sound Wave | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-12/) |
+| 13 | Key Code | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-13/) |
+| 14 | FAQ Dropdown | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-14/) |
 | 15 | Project-15 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-15/) |
-| 16 | Project-16 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-16/) |
-| 17 | Project-17 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-17/) |
-| 18 | Project-18 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-18/) |
-| 19 | Project-19 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-19/) |
-| 20 | Project-20 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-20/) |
-| 21 | Project-21 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-21/) |
-| 22 | Project-22 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-22/) |
-| 23 | Project-23 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-23/) |
-| 24 | Project-24 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-24/) |
-| 25 | Project-25 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-25/) |
-| 26 | Project-26 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-26/) |
-| 27 | Project-27 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-27/) |
-| 28 | Project-28 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-28/) |
-| 29 | Project-29 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-29/) |
-| 30 | Project-30 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-30/) |
-| 31 | Project-31 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-31/) |
-| 32 | Project-32 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-32/) |
-| 33 | Project-33 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-33/) |
-| 34 | Project-34 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-34/) |
-| 35 | Project-35 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-35/) |
-| 36 | Project-36 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-36/) |
-| 37 | Project-37 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-37/) |
-| 38 | Project-38 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-38/) |
-| 39 | Project-39 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-39/) |
-| 40 | Project-40 | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-40/) |
+| 16 | Random Choice Picker | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-16/) |
+| 17 | Increment Counter | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-17/) |
+| 18 | Github Profile Card | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-18/) |
+| 19 | Drink Water | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-19/) |
+| 20 | Background Slider | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-20/) |
+| 21 | Theme Clock | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-21/) |
+| 22 | Ripple Effect | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-22/) |
+| 23 | Drag and Drop | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-23/) |
+| 24 | Drawing App | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-24/) |
+| 25 | Kinetic Loader | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-25/) |
+| 26 | Content Placeholder | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-26/) |
+| 27 | Vertical Slider | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-27/) |
+| 28 | Toast Notification | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-28/) |
+| 29 | Github Profile II | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-29/) |
+| 30 | Double Click Heart | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-30/) |
+| 31 | Auto Text Effect | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-31/) |
+| 32 | Password Generator | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-32/) |
+| 33 | Good Cheap Fast | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-33/) |
+| 34 | Notes App | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-34/) |
+| 35 | Image Carousel | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-35/) |
+| 36 | Hoverboard | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-36/) |
+| 37 | Pokedex | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-37/) |
+| 38 | Common Background | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-38/) |
+| 39 | Verify OTP | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-39/) |
+| 40 | Live User Filter | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-40/) |
