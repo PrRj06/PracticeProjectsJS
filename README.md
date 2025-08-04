@@ -40,3 +40,5 @@
 | 38 | Common Background | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-38/) |
 | 39 | Verify OTP | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-39/) |
 | 40 | Live User Filter | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-40/) |
+| 41 | Custom Range Slider | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-41/) |
+| 42 | Quiz App | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-42/) |
