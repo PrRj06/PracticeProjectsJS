@@ -1,14 +1,14 @@
 | No. | Project Name | Live Demo |
 |:--:|:-------------|:----------|
-| 01 | Color Scheme Switcher  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-1/) |
-| 02 | BMI Calculator  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-2/) |
-| 03 | Your Local Time  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-3/) |
-| 04 |Expanding Cards  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-4/) |
-| 05 | Progress Steps  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-5/) |
-| 06 | Rotate Navigation   | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-6/) |
-| 07 | Hidden Search Widget  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-7/) |
-| 08 | Blurry Loading | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-8/) |
-| 09 | Scroll Animation | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-9/) |
+| 01 | Color Scheme Switcher  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-01/) |
+| 02 | BMI Calculator  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-02/) |
+| 03 | Your Local Time  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-03/) |
+| 04 |Expanding Cards  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-04/) |
+| 05 | Progress Steps  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-05/) |
+| 06 | Rotate Navigation   | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-06/) |
+| 07 | Hidden Search Widget  | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-07/) |
+| 08 | Blurry Loading | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-08/) |
+| 09 | Scroll Animation | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-09/) |
 | 10 | Split Landing Page | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-10/) |
 | 11 | From Wave | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-11/) |
 | 12 | Sound Wave | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-12/) |
