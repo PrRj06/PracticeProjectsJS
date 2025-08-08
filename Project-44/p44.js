@@ -21,6 +21,7 @@ function addEvents(){
             e.target.classList.toggle('done')
         })
         todo.addEventListener('contextmenu',(e)=>{
+            e.preventDefault()
             e.target.remove()
         })
     })
