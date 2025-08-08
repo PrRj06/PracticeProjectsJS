@@ -42,3 +42,6 @@
 | 40 | Live User Filter | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-40/) |
 | 41 | Custom Range Slider | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-41/) |
 | 42 | Quiz App | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-42/) |
+| 43 | Testinomial Box | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-43/) |
+| 44 | Todo List | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-44/) |
+| 45 | Simple Timer | [🔗 Live Demo](https://prrj06.github.io/PracticeProjectsJS/Project-45/) |
